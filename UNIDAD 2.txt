@@ -7,4 +7,4 @@ PREPARANDO NUESTRO ENTORNO DE TRABAJO
 •	Diferencias entre virtualización y contenedores
 •	VirtualBox, instalación, configuración y ejecución
 •	Docker, instalación, configuración y ejecución
-
+--- probando git
