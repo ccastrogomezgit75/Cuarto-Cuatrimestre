@@ -1,0 +1,10 @@
+
+UNIDAD 2
+PREPARANDO NUESTRO ENTORNO DE TRABAJO
+•	Bash Shell
+•	Concepto de virtualización
+•	Concepto de contenedores e imágenes
+•	Diferencias entre virtualización y contenedores
+•	VirtualBox, instalación, configuración y ejecución
+•	Docker, instalación, configuración y ejecución
+
